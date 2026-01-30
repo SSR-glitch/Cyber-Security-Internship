@@ -28,7 +28,7 @@ Projects I completed during my internship. The work focuses on **Vulnerability A
     * **Network Path:** Performed a Traceroute (visible in output) to map the 19-hop path to the server.
 
 ### 📸 Project Output
-![Vulnerability Scan Screenshot](Project1_Zenmap_Scan.png)
+![Vulnerability Scan Screenshot]()
 
 ## 📡 Project 2: Network Traffic Analysis (Network Fundamentals)
 
