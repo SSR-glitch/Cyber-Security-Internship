@@ -6,7 +6,7 @@
 **Focus Area:** Network Security & VAPT
 
 # Overview
-This repository documents the practical projects I completed during my internship. The work focuses on **Vulnerability Assessment** and ***Network Fundamentals**, demonstrating hands-on experience with industry-standard security tools.
+Projects I completed during my internship. The work focuses on **Vulnerability Assessment** and ***Network Fundamentals**, demonstrating hands-on experience with industry-standard security tools.
 
 ## Project 1: Vulnerability Assessment and Penetration Testing (VAPT)
 
